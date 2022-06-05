@@ -41,4 +41,13 @@ PN: SA10R16883
 Reconnect the battery and AC addapter connector from the Laptor Mother board.
 
 
+#OTHER RESOURCES
+https://www.youtube.com/watch?v=yq5fLjvGVsk
+
+https://forums.lenovo.com/t5/ThinkPad-P-and-W-Series-Mobile-Workstations/P51-Charging-Issues/m-p/4521709?page=1#4599900
+
+https://download.lenovo.com/pccbbs/mobiles_pdf/tp_p53_hmm_v3_en.pdf.pdf
+
+https://download.lenovo.com/pccbbs/mobiles_pdf/p53_sg_en.pdf
+
 :guardsman:
